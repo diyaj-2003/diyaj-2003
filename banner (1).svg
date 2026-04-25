@@ -1,0 +1,53 @@
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Diya Joseph — GitHub banner</title>
+<desc>Sleek nautical banner centered, navy and white stripes, pink accent</desc>
+
+<rect width="680" height="200" fill="#001F5B"/>
+
+<rect y="0"   width="680" height="28" fill="#001F5B"/>
+<rect y="28"  width="680" height="28" fill="#ffffff"/>
+<rect y="56"  width="680" height="28" fill="#001F5B"/>
+<rect y="84"  width="680" height="28" fill="#ffffff"/>
+<rect y="112" width="680" height="28" fill="#001F5B"/>
+<rect y="140" width="680" height="28" fill="#ffffff"/>
+<rect y="168" width="680" height="28" fill="#001F5B"/>
+
+<rect width="680" height="200" fill="#001F5B" opacity="0.72"/>
+
+<rect x="0" y="0" width="4" height="200" fill="#D4537E"/>
+<rect x="676" y="0" width="4" height="200" fill="#D4537E"/>
+
+<text x="340" y="82"
+  font-family="'Helvetica Neue', 'Arial', sans-serif"
+  font-size="72"
+  font-weight="700"
+  fill="#ffffff"
+  letter-spacing="-3"
+  text-anchor="middle">DIYA JOSEPH</text>
+
+<rect x="190" y="94" width="300" height="1" fill="#D4537E"/>
+
+<text x="340" y="116"
+  font-family="'Courier New', monospace"
+  font-size="10"
+  fill="#ffffff"
+  opacity="0.85"
+  letter-spacing="3"
+  text-anchor="middle">BIOMEDICAL ENGINEER · KCL LONDON</text>
+
+<text x="340" y="142"
+  font-family="'Courier New', monospace"
+  font-size="10"
+  fill="#9FE1CB"
+  letter-spacing="2"
+  text-anchor="middle">NEUROTECH · DRUG DISCOVERY · CARDIAC MODELLING</text>
+
+<text x="340" y="182"
+  font-family="'Courier New', monospace"
+  font-size="9"
+  fill="#ffffff"
+  opacity="0.3"
+  text-anchor="middle"
+  letter-spacing="1">github.com/diyaj-2003</text>
+
+</svg>
