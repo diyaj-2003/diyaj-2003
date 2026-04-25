@@ -1,14 +1,15 @@
-<!-- Profile README for Diya Joseph — github.com/diyajoseph (replace with your actual username) -->
+<!-- Profile README — github.com/diyaj-2003 -->
 
 <div align="center">
 
-<!-- BANNER — generated at capsule-render.vercel.app, customised colours -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0,D4537E,1D9E75&height=200&section=header&text=Diya%20Joseph&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Biomedical%20Engineer%20%7C%20Computational%20Cardiac%20Modelling&descAlignY=58&descSize=16)
+<!-- BANNER — upload banner.svg to this repo, then this line pulls it in -->
+<img src="./banner.svg" width="100%" alt="Diya Joseph — Biomedical Engineer" />
 
-<!-- SOCIAL BADGES -->
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D4537E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
 [![Email](https://img.shields.io/badge/Email-1D9E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUREMAIL)
-[![King's College London](https://img.shields.io/badge/KCL-Biomedical%20Engineering-silver?style=for-the-badge)](https://www.kcl.ac.uk)
+[![King's College London](https://img.shields.io/badge/KCL-Biomedical%20Engineering-001F5B?style=for-the-badge)](https://www.kcl.ac.uk)
 
 </div>
 
@@ -74,7 +75,7 @@ project = {
 
 <div align="center">
 
-[![Thesis Repo](https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=virtual-pacemapping-ecg&theme=tokyonight&border_color=D4537E&icon_color=1D9E75&title_color=ED93B1&text_color=9FE1CB)](https://github.com/YOURUSERNAME/virtual-pacemapping-ecg)
+[![Thesis Repo](https://github-readme-stats.vercel.app/api/pin/?username=diyaj-2003&repo=virtual-pacemapping-ecg&theme=tokyonight&border_color=D4537E&icon_color=1D9E75&title_color=ED93B1&text_color=9FE1CB)](https://github.com/diyaj-2003/virtual-pacemapping-ecg)
 
 </div>
 
@@ -84,9 +85,9 @@ project = {
 
 <div align="center">
 
-![Diya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&border_color=D4537E&icon_color=1D9E75&title_color=ED93B1&text_color=c9d1d9&hide_border=false)
+![Diya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diyaj-2003&show_icons=true&theme=tokyonight&border_color=D4537E&icon_color=1D9E75&title_color=ED93B1&text_color=c9d1d9&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&border_color=D4537E&title_color=ED93B1&text_color=9FE1CB)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diyaj-2003&layout=compact&theme=tokyonight&border_color=D4537E&title_color=ED93B1&text_color=9FE1CB)
 
 </div>
 
@@ -96,7 +97,7 @@ project = {
 
 ```
 🎹  classically trained pianist
-🎨  digital artist and illustrator  
+🎨  digital artist and illustrator
 🌐  enjoy building things for the web
 🫀  fascinated by the heart as an electrical system
 📍  based in Bengaluru
@@ -106,6 +107,6 @@ project = {
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0,1D9E75,D4537E&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0,001F5B,D4537E&height=80&section=footer)
 
 </div>
